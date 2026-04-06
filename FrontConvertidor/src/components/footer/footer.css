@@ -1,0 +1,22 @@
+.footer {
+    background-color: rgb(13, 13, 54);
+    color: aliceblue;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.footer-text {
+    display: inline-block;
+    text-align: center;
+}
+
+.footer p {
+    margin: 0;
+}
